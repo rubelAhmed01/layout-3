@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.pre-header{
+    overflow: hidden;
+}
+.logo{
+    background-color: aqua;
+    height: 50px;
+    width: 20%;
+    float: left;
+    text-align: center;
+
+}
+.mobile-mail{
+    background-color: rgb(150, 201, 201);
+    height: 50px;
+    width: 80%;
+    float: right;
+    text-align: center;
+
+}
+.menu{
+    background-color: burlywood;
+    height: 100px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left-content{
+    background-color: cadetblue;
+    height: 500px;
+    float: left;
+    width: 40%;
+
+}
+.left-top{
+    background-color: crimson;
+    height: 25%;
+    text-align: center;
+
+}
+.left-center{
+    background-color: darkcyan;
+    height: 25%;
+    text-align: center;
+
+}
+.left-bottom{
+    background-color: darkmagenta;
+    height: 50%;
+    text-align: center;
+
+}
+.middle-content{
+    background-color: chocolate;
+    height: 500px;
+    float: left;
+    width: 40%;
+
+}
+.middle-top{
+    background-color: darkorange;
+    height: 40%;
+    text-align: center;
+}
+.middle-bottom{
+    background-color: darkred;
+    height: 60%;
+    text-align: center;
+}
+.right-content{
+    background-color: coral;
+    height: 500px;
+    float: left;
+    width: 20%;
+
+}
+.right-top{
+    background-color: teal;
+    height: 20%;
+    text-align: center;
+}
+.right-center{
+    background-color: gold;
+    height: 50%;
+    text-align: center;
+}
+.right-bottom{
+    background-color: slateblue;
+    height: 30%;
+    text-align: center;
+
+}
+footer{
+    background-color: limegreen;
+    height: 100px;
+    text-align: center;
+}
